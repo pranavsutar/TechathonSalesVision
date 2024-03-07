@@ -233,7 +233,7 @@ const Graph = (props) => {
           <option value='Sarima' title='For mildly fluctuating data'>
             Sarima
           </option>
-          <option value='Prophet' title='Jai Shree Ram'>
+          <option value='Prophet' title='For more fluctuating data'>
             Prophet
           </option>
         </select>
